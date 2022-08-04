@@ -1,5 +1,5 @@
 # MLP
-![logo](./images/icon.png)
+![logo](./src/images/icon.png)
 
 Multilayer Perceptron: letters recognition
 
@@ -18,7 +18,7 @@ Multilayer Perceptron: letters recognition
 
 ## Пример работы
 
-![preview](./images/preview.gif)
+![preview](./src/images/preview.gif)
     
 ## Входные данные
 
@@ -32,7 +32,7 @@ Multilayer Perceptron: letters recognition
 
 ## Обучение
 
-![train](./images/train.png)
+![train](./src/images/train.png)
 
 Для того чтобы нейросеть могла определить букву, необходимо обучить её, либо же загрузить уже готовые веса.
 
@@ -45,7 +45,7 @@ Multilayer Perceptron: letters recognition
 
 ## Тесты
 
-![test](./images/test.png)
+![test](./src/images/test.png)
 
 После того как нейросеть обучилась или веса были загружены, можно провести тесты по указанной выборке
 (от 0 до 1, в случае 0 - тестовой выборки нет, тесты не запускаются, в случае 1 - тестовая выборка 100%)
@@ -62,7 +62,7 @@ Multilayer Perceptron: letters recognition
 
 ## Настройки 
 
-![settings](./images/settings.png)
+![settings](./src/images/settings.png)
 
 Настройки открываются на кнопку `SETTINGS`, в них можно настраивать:
 1. Тип нейросети, графовая или матричная. `MATRIX` или `GRAPH`.
