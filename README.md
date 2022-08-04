@@ -1,7 +1,6 @@
-# MLP
-![logo](./src/images/icon.png)
+# Multilayer Perceptron: letters recognition
 
-Multilayer Perceptron: letters recognition
+![logo](./src/images/icon.png)
 
 ## Содержание
 
